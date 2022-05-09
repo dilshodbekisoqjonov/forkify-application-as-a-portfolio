@@ -128,3 +128,8 @@ const init = function () {
   addRecipeView.addHandlerUpload(controlAddRecipe);
 };
 init();
+
+function newFeature() {
+  console.log('Welcome to the application!');
+}
+newFeature();
